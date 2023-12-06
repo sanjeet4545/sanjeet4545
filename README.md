@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeet4545&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet4545" /> </p>
 
-- 🌱 I’m currently learning **PG Diploma in Data Science**
+- - 🔭 I’m currently working on **ML project**
+
+- 🌱 I’m currently learning **Python, SQL, ML, Tableau**
+
+- 💬 Ask me about **Data Analysis, Forecast, ML, Python**
 
 - 📫 How to reach me **sanjeetyadav545@gmail.com**
 
